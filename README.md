@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tvucic
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning about Spring Boot, Docker ,Kubernates, Web Development in general, Blockchain
+- 🌱 I’m currently learning about Spring Boot, Docker ,Kubernates, Web Development in general, Blockchain ...
 - 📫 How to reach me https://www.linkedin.com/in/tomo-vucic/
 
 <!---
